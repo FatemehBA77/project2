@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 100;
+  src: url("/assets/fonts/Vazirmatn-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/assets/fonts/Vazirmatn-Bold.ttf") format("ttf");
+}
+body,
+button {
+  font-family: "Vazirmatn";
+}
